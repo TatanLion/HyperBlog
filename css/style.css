@@ -34,8 +34,14 @@ h2{
     align-items: center;
 
 }
-
 img {
     width: 70px;
     height: 70px;
+}
+.footer{
+    padding: 10px 0;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #333;
+    text-align: center;
 }
