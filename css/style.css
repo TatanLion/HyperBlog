@@ -26,3 +26,10 @@ h2{
     text-align: center;
     background-color: cadetblue;
 }
+.footer{
+    padding: 10px 0;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #333;
+    text-align: center;
+}
